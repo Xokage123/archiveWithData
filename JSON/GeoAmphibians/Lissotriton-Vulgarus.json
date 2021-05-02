@@ -1,0 +1,79 @@
+[{
+    "name": "Lissotriton vulgarus",
+    "name_ru": "Обыкновенный тритон",
+    "type__animal": "kind",
+    "coordinate": {
+        "Y": "55,69685",
+        "X": "37,523438"
+    },
+    "locality": "Бульвар вдоль пр. пр. 3538 по Ломоносовскому проспекту, 27Б",
+    "detection_period": {
+        "day": "10",
+        "month": "04",
+        "year": "2019"
+    },
+    "region": "ЮЗАО",
+    "collection": {
+        "storage": "ZMMU",
+        "inv_number": "2328"
+    },
+    "link": "https://www.inaturalist.org/observations/22276891"
+}, {
+    "name": "Lissotriton vulgarus",
+    "name_ru": "Обыкновенный тритон",
+    "type__animal": "kind",
+    "locality": "Парк Кусково",
+    "detection_period": {
+        "years": "1985-2000"
+    },
+    "region": "ВАО",
+    "link": "https://2lib.org/book/1159489/188011?id=1159489&secret=188011"
+}, {
+    "name": "Lissotriton vulgarus",
+    "name_ru": "Обыкновенный тритон",
+    "type__animal": "kind",
+    "coordinate": {
+        "Y": "55,73058",
+        "X": "37,78782"
+    },
+    "locality": "ООПТ Природно-исторический парк Кусково",
+    "detection_period": {
+        "day": "28",
+        "month": "05",
+        "year": "2019"
+    },
+    "region": "ВАО",
+    "link": "https://www.inaturalist.org/observations/34705683"
+}, {
+    "name": "Lissotriton vulgarus",
+    "name_ru": "Обыкновенный тритон",
+    "type__animal": "kind",
+    "coordinate": {
+        "Y": "55,73063",
+        "X": "37,78579"
+    },
+    "locality": "ООПТ Природно-исторический парк Кусково",
+    "detection_period": {
+        "day": "28",
+        "month": "05",
+        "year": "2019"
+    },
+    "region": "ВАО",
+    "link": "https://www.inaturalist.org/observations/34705684"
+}, {
+    "name": "Lissotriton vulgarus",
+    "name_ru": "Обыкновенный тритон",
+    "type__animal": "kind",
+    "coordinate": {
+        "Y": "55,80204",
+        "X": "37,38667"
+    },
+    "locality": "Сквер по ул. Кулакова",
+    "detection_period": {
+        "day": "08",
+        "month": "05",
+        "year": "2019"
+    },
+    "region": "СЗАО",
+    "link": "https://www.inaturalist.org/observations/46886950"
+}]
